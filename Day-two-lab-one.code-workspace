@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/Users/Annalise"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Annalise"
+	}
+}
